@@ -1,0 +1,54 @@
+body {
+    background-color: #f3f3f3;
+    font-size: 1.6rem;
+    font-family: "Open Sans", sans-serif;
+    color: #2b3e51;
+  }
+
+.title{
+  display: flex;
+  align-items: center;
+  gap: 30%;
+  color: rgb(3, 3, 3);
+  background-color: #3498DB;
+  margin: 0%;
+}
+
+.imgLogo{
+  height: 40px;
+  width: 150px;
+  padding: 5px;
+}
+
+.body_Dash{
+  padding: 10px;
+  font-size: 15px;
+}
+
+table{
+  border: 1px solid black;
+  
+}
+
+th {
+  border: 1px solid rgb(0, 0, 0);
+  border-left-width: 0;
+  min-width: 120px;
+  height: 18px;
+}
+
+.th{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.toners{
+  display: flex;
+  gap: 5px;
+  width: 200px;
+}
+
+.divButtonTable{
+  display: flex;
+  justify-content: space-between;
+}
